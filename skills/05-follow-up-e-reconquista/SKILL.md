@@ -1,32 +1,47 @@
 ---
 name: 05-follow-up-e-reconquista
-description: Executa cadência de acompanhamento de até 3 follow-ups sem parecer cobrança, aplica a trava de 30 dias e conduz reconquista tardia (win-back) de leads antigos. Use quando um lead parar de responder após abertura, diagnóstico, prévia ou proposta.
+description: Executa acompanhamento estruturado de até 3 toques em WhatsApp, LinkedIn, E-mail e Direct sem parecer cobrança, aplica a trava de 30 dias e conduz reconquista tardia (win-back) de leads antigos. Use quando um lead parar de responder após abertura, diagnóstico, exemplo ou proposta.
 ---
 
-# Follow-up e Reconquista (Anti-Ghosting)
+# 05. Follow-up e Reconquista Multi-Canal
 
-A maioria das vendas se perde no silêncio, não no "não". Mas insistência mal feita queima o contato de vez.
+## Ordens Diretas ao Agente
+1. **Proibido mensagem vazia:** nunca gere *"Oi, conseguiu ver?"*, *"Passando para lembrar"*, *"Alguma novidade?"* ou *"Subindo meu e-mail"*.
+2. **Pare no primeiro "não":** qualquer recusa explícita encerra o ciclo e move o lead para a Lista Negra (skill `06`).
+3. **Pare ao agendar ou fechar:** se o lead marcou call ou pagou, o follow-up termina na hora.
+4. **Limite máximo de 3 follow-ups ativos:** o terceiro toque sempre avisa que é o último e devolve o controle ao lead.
+5. **Trava de 30 dias:** passou de 30 dias desde a primeira abordagem sem resposta humana, encerre o ciclo ativo.
 
-## 1. Regras Rígidas de Acompanhamento
-1. **Pare no primeiro "não":** qualquer recusa explícita encerra o acompanhamento e envia o contato para a lista negra.
-2. **Pare quando marcar conversa ou fechar:** follow-up serve apenas para retomar silêncio.
-3. **Máximo de 3 follow-ups** após a última interação real. O terceiro avisa claramente que é a última mensagem.
-4. **Trava de 30 dias:** passou de 30 dias sem resposta na mesma abordagem, encerre o ciclo ativo.
-5. **Proibido mensagem vazia:** nunca mande *"Oi, conseguiu ver?"*, *"Passando pra lembrar"* ou *"Alguma novidade?"*.
+---
 
-## 2. Cadência Recomendada (Perguntas Orientadas ao "Não")
-Perguntas que permitem ao lead dizer "não" devolvem a sensação de controle e geram muito mais resposta do que cobrança.
+## 1. Cadência Padrão (WhatsApp, LinkedIn, E-mail e Direct)
 
-- **Toque 1 (48h a 72h após silêncio):** lembrete curto e leve.
-  > *"Oi [NOME], tudo bem? Você chegou a desistir de organizar essa entrada de clientes agora ou só ficou corrido por aí?"*
-- **Toque 2 (5 a 7 dias após Toque 1):** entrega de algo útil ou ângulo prático sem cobrar resposta da mensagem anterior.
-  > *"Oi [NOME], lembrei de comentar um ponto rápido: mesmo sem mexer em página, ajustar a descrição de serviços na ficha do Google costuma reduzir bastante curioso pedindo preço errado. Se quiser depois te mando os 2 pontos prontos."*
-- **Toque 3 (10 a 14 dias após Toque 2, último toque):** encerramento elegante.
-  > *"Oi [NOME], pra eu não ficar te mandando mensagem à toa: esse assunto ficou pra outro momento ou ainda faz sentido a gente retomar?"*
+Use **perguntas orientadas ao "não"**: quando o lead sente que pode dizer não sem pressão, a taxa de resposta sobe.
 
-## 3. Reconquista Tardia (Win-Back: 60 a 90+ dias)
-Serve apenas para quem **não pediu para sair** e já esfriou há pelo menos 60 dias (ex: pediu proposta e sumiu, ou disse *"agora não"* por agenda).
-- **Nunca retome cobrando a proposta antiga.** Traga um motivo novo (um caso novo no mesmo nicho, uma melhoria relevante de processo ou pergunta simples de momento).
-- **Exemplo de abertura de reconquista:**
-  > *"Oi [NOME], tudo bem? Faz uns meses que a gente se falou sobre a estrutura digital aí do escritório. Esses dias fechamos um ajuste parecido que reduziu bastante curioso no WhatsApp. Ainda faz sentido olhar isso por aí ou já resolveram internamente?"*
-- Se não responder em 1 tentativa de reconquista, arquive de vez.
+| Toque | Janela | Objetivo | Modelo Adaptável |
+| :--- | :--- | :--- | :--- |
+| **Toque 1** | **D+2 a D+3** (48h a 72h após silêncio) | Retomar leve sem cobrar | *"Oi [NOME], tudo bem? Você chegou a desistir de resolver essa parte agora ou só ficou corrido por aí?"* |
+| **Toque 2** | **D+7 a D+10** (5 a 7 dias após Toque 1) | Novo ângulo prático ou dado útil | *"Oi [NOME], lembrei de um ponto rápido sobre o que falamos: [1 DICA OU CASO CURTO QUE AJUDA MESMO SEM COMPRA]. Se fizer sentido, depois te explico como aplicamos."* |
+| **Toque 3** | **D+18 a D+25** (último toque) | Encerramento elegante (Breakup) | *"Oi [NOME], para eu não ficar te mandando mensagem à toa: esse assunto ficou para outro momento ou ainda faz sentido a gente retomar?"* |
+
+### Adaptação para E-mail Frio
+- Responda na **mesma thread** (mantendo o assunto original com `Re:`) nos Toques 1 e 2 para preservar contexto.
+- Corpo de no máximo 3 linhas em cada toque.
+- No Toque 3, feche a porta com educação para limpar a fila.
+
+### Adaptação para LinkedIn / Direct
+- Se o lead visualizou e não respondeu no Toque 1, espere o intervalo completo até o Toque 2 e mude o ângulo (nunca repita a mesma pergunta).
+
+---
+
+## 2. Protocolo de Reconquista Tardia (Win-Back: 60 a 90+ Dias)
+
+Aplique **somente** para quem **não pediu para sair** e já está frio há pelo menos 60 dias (ex: pediu proposta e sumiu, ou disse *"agora não"* por agenda/orçamento).
+
+### Regras da Reconquista
+- **Nunca cobre a conversa antiga** (*"Lembra da proposta de 3 meses atrás?"*).
+- **Traga um gatilho novo:** resultado recente no mesmo nicho, mudança de cenário público da empresa (vaga, filial, campanha nova) ou simplificação da oferta.
+- **Máximo 1 tentativa de reconquista:** se não responder, arquive definitivamente.
+
+### Modelo de Reconquista
+> *"Oi [NOME], tudo bem? Faz uns meses que a gente se falou sobre [TEMA]. Esses dias rodamos um ajuste parecido em outra operação de [NICHO] e destravou rápido [RESULTADO PRÁTICO]. Ainda faz sentido olhar isso por aí esse trimestre ou já resolveram internamente?"*

@@ -1,56 +1,71 @@
 ---
 name: 03-negociacao-whatsapp
-description: Conduz conversas de vendas B2B no WhatsApp após a primeira resposta do lead, combinando Empatia Tática, Perguntas NEPQ, Regra do Imaginar, Empilhamento de Valor e Fechamento 50/50 sem risco. Use sempre que um lead responder, pedir exemplo ou perguntar preço.
+description: Conduz conversas de vendas consultivas após a primeira resposta do lead em qualquer canal (WhatsApp, LinkedIn, E-mail ou Direct), combinando entrega de valor, diagnóstico NEPQ, visualização do cenário ideal, empilhamento de valor e fechamento com reversão de risco. Use quando um lead responder, pedir exemplo, orçamento ou avançar para proposta.
 ---
 
-# Negociação e Fechamento B2B no WhatsApp
+# 03. Negociação e Fechamento Multi-Canal (Qualquer Produto ou Serviço)
 
-## 1. Regras de Escrita no WhatsApp
-- **Blocos curtos:** 1 a 3 parágrafos de no máximo 2 linhas cada.
-- **Zero jargão:** nunca use palavras como "alavancar", "transformação digital", "sinergia", "solução inovadora" ou "escalar".
-- **Nunca use "Por que":** perguntas com "por que" colocam o cliente na defensiva. Troque por *"Como..."*, *"O que..."* ou *"Qual..."*.
-- **Uma pergunta por vez:** nunca termine com duas ou três perguntas juntas.
-- **Ignore bots de recepção:** mensagens automáticas de boas-vindas ou fora de horário não contam como engajamento.
+## Ordens Diretas ao Agente
+1. **Adapte o ritmo ao canal:** no WhatsApp, LinkedIn DM e Direct, escreva em 1 a 3 blocos curtos (máximo 2 linhas por bloco). No E-mail, seja direto (máximo 120 palavras) com escaneabilidade limpa.
+2. **Proibido falar preço antes do diagnóstico:** se o lead perguntar *"quanto custa?"* na segunda mensagem sem contexto, responda com transparência que o valor depende do escopo e faça 1 pergunta rápida para entender o cenário antes de cravar número.
+3. **Nunca use "Por que":** perguntas com *"por que"* colocam a pessoa na defensiva. Use *"Como..."*, *"O que..."* ou *"Qual..."*.
+4. **Varredura de jargões obrigatória:** corte qualquer palavra da Lista Negra de Jargões (skill `06`) antes de enviar.
+5. **Uma pergunta por vez:** nunca encerre uma mensagem com 2 ou 3 perguntas concorrentes.
 
-## 2. Fluxo da Conversa em 5 Etapas
+---
 
-### Etapa 1: Entrega de Valor (Antes de Falar do Seu Serviço)
-Quando o lead aceitar receber a observação da abertura:
-1. Entregue 2 ajustes práticos e gratuitos que ele mesmo pode aplicar (ex: ajuste na ficha do Google, clareza de serviços, direcionamento de contato).
-2. Feche com uma pergunta leve de cenário atual:
-   > *"Hoje a maioria dos clientes novos chega por indicação ou pelo Google/Instagram mesmo?"*
+## 1. Arquitetura da Conversa em 5 Etapas
 
-### Etapa 2: Diagnóstico (Problema e Consequência)
-Faça o lead reconhecer o custo de continuar como está antes de apresentar oferta:
-- **Pergunta de problema:**
-  > *"Quando alguém acha vocês hoje e chama no WhatsApp, costuma vir já sabendo o nível do trabalho ou chega muita gente só pedindo preço e sumindo?"*
-- **Pergunta de consequência:**
-  > *"E quando chega esse perfil de curioso que só quer cotação, quanto tempo do seu dia acaba indo embora tentando filtrar?"*
+### Etapa 1: Entrega de Valor Real (Sem Pedir Nada em Troca)
+Quando o lead aceitar ver a observação ou responder com interesse:
+1. Entregue 1 ou 2 ajustes práticos, específicos para o negócio dele, que funcionam mesmo se ele não comprar nada de você.
+2. Feche com uma pergunta leve de contexto atual:
+   - *Exemplo:* *"Hoje a maior parte dos seus clientes novos chega por indicação, anúncio ou busca orgânica?"*
 
-### Etapa 3: Regra do Imaginar
-Antes de mandar qualquer link ou valor, faça o lead visualizar o cenário ideal:
-> *"Imagina o cliente ideal buscando vocês pelo celular, entrando numa página pensada pro nível do trabalho de vocês e já chegando no WhatsApp pronto pra agendar uma conversa, sem ficar comparando só preço."*
+### Etapa 2: Diagnóstico NEPQ (Situação -> Problema -> Consequência)
+O lead só compra quando enxerga que **manter tudo como está sai mais caro do que resolver**.
+- **Situação:** entenda como funciona hoje sem interrogar.
+  > *"Como vocês fazem hoje para filtrar quem chega interessado de quem só quer cotação rápida?"*
+- **Problema:** faça o lead verbalizar o atrito.
+  > *"Nesse processo atual, o que mais costuma travar ou fazer perder venda boa no meio do caminho?"*
+- **Consequência (custo da inação):** conecte o problema a tempo, dinheiro ou energia perdida.
+  > *"E quando isso acontece na semana, quanto tempo ou oportunidade acaba escapando por falta desse ajuste?"*
 
-### Etapa 4: Apresentação de Valor e Oferta
-Só fale de valor depois que o lead confirmar o problema ou perguntar como funciona / quanto custa:
-- **Ancore no retorno de 1 cliente:** conecte o investimento ao faturamento de um único bom cliente fechado.
-- **Envie 1 referência visual por vez:** deixe claro que qualquer link mostrado é apenas referência e que o projeto final é 100% personalizado para o negócio dele.
-- **Empilhe a entrega sem tecnicismo precoce:**
-  - Estrutura personalizada focada em conversão e posicionamento.
-  - Domínio profissional e hospedagem inclusos no primeiro ano.
-  - Bônus prático (ex: otimização da ficha no mapa ou triagem inicial no WhatsApp).
+### Etapa 3: Visualização (Regra do Imaginar)
+Antes de mostrar proposta, link ou preço, faça o cliente enxergar o resultado rodando na prática:
+> *"Imagina a cena: o cliente certo encontrando vocês, entendendo em segundos o valor do que vocês entregam e já chegando pronto para fechar ou agendar, sem o seu time perder horas explicando o básico para curioso."*
 
-### Etapa 5: Fechamento com Reversão de Risco (50/50)
-Elimine o medo de pagar adiantado e não gostar do resultado:
-- **Condição padrão:** 50% para iniciar a construção personalizada e 50% somente depois que tudo estiver pronto, aprovado e no ar no domínio do cliente.
-- **Avanço direto:**
-  > *"Se a gente estruturar exatamente nesse formato, faz sentido começar ainda essa semana ou ficou algum ponto em dúvida?"*
+### Etapa 4: Oferta e Empilhamento de Valor (Sem Tecnicismo Precoce)
+Só apresente a solução e o investimento depois que a dor estiver clara na conversa:
+- **Ancore no retorno:** compare o investimento com o valor de **1 único cliente fechado**, horas economizadas na semana ou risco evitado.
+- **Mostre 1 referência por vez:** se usar exemplo visual, portfólio ou demonstração, mande **apenas 1** alinhado ao perfil do lead. Deixe claro que o exemplo é referência e a entrega final é adaptada para a realidade dele.
+- **Empilhe o pacote em linguagem simples (foco no que ele ganha, não na ferramenta):**
+  1. **Entrega principal:** o que resolve a dor central apontada no diagnóstico.
+  2. **Implementação / Infraestrutura:** tudo pronto para rodar sem dor de cabeça técnica do lado dele.
+  3. **Bônus prático:** 1 item complementar de alto valor percebido (ex: ajuste de canal, automação inicial, treinamento rápido da equipe ou acompanhamento pós-entrega).
 
-## 3. Leitura Rápida de Sinais
+### Etapa 5: Fechamento com Reversão de Risco
+Reduza o atrito da decisão tirando o risco das costas de quem compra:
+- **Modelo 50/50 (serviços/projetos):** 50% para iniciar e 50% somente após entrega aprovada e funcionando.
+- **Modelo Piloto / Garantia (SaaS/recorrência/produtos):** teste acompanhado, garantia clara de ajuste ou primeira entrega validada antes do compromisso longo.
+- **Pergunta de avanço limpa:**
+  > *"Se a gente fechar exatamente nesse formato com essa garantia, faz sentido começar ainda essa semana ou ficou algum ponto pendente para você?"*
 
-| Sinal do Lead | Significado | Próxima Ação |
+---
+
+## 2. Leitura de Sinais e Próxima Jogada
+
+| Sinal do Lead | O Que Significa | Próxima Ação do Agente |
 | :--- | :--- | :--- |
-| Pergunta prazo, domínio ou forma de pagamento | **Sinal de compra** | Apresentar condição 50/50 e encaminhar fechamento |
-| Pede exemplos ou prévia visual | **Interesse ativo** | Mandar 1 único modelo compatível com o nicho + pergunta de percepção |
-| Responde seco (*"Legal"*, *"Ok"*) sem perguntar nada | **Engajamento baixo** | Não mandar preço; voltar para pergunta de diagnóstico |
-| Pede *"manda tudo por e-mail"* logo no começo | **Barreira educada** | Validar e perguntar qual ponto ele precisa validar antes |
+| Pergunta prazo, entrega, nota fiscal ou forma de pagamento | **Sinal verde de compra** | Apresentar condição de pagamento + reversão de risco e conduzir fechamento |
+| Pede exemplo, demo ou link para olhar | **Interesse ativo** | Enviar 1 único exemplo aderente + perguntar o que achou da estrutura |
+| Responde *"legal"*, *"show"*, *"entendi"* sem perguntar nada | **Engajamento baixo** | Não mandar preço; voltar para pergunta de problema/consequência |
+| Pede *"manda por e-mail/PDF"* logo na primeira resposta | **Barreira educada** | Validar e perguntar qual critério ele precisa ver para não mandar material genérico |
+| Envia áudio ou texto longo detalhando problemas | **Alta confiança** | Espelhar os pontos principais em 2 linhas e avançar direto para Etapa 3 ou 4 |
+| Resposta automática de recepção / bot / ausência | **Não é humano** | Ignorar na contagem de engajamento; aguardar ou buscar contato direto do decisor |
+
+---
+
+## 3. Migração Inteligente de Canal
+- **Do E-mail / LinkedIn para WhatsApp ou Call:** só peça WhatsApp ou reunião rápida depois que o lead confirmar interesse real. Use convite de baixo atrito: *"Prefere que eu te mande um áudio de 1 minuto no WhatsApp explicando como aplicamos isso ou prefere alinhar em 10 minutos por call?"*
+- **Do WhatsApp para Fechamento:** não force reunião se o cliente já está pronto para fechar no texto. Resolva no canal onde ele já está respondendo.
