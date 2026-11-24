@@ -20,7 +20,8 @@ Funciona para **qualquer produto ou serviço** (SaaS, software sob medida, agên
 | `03` | [03-negociacao-whatsapp](skills/03-negociacao-whatsapp/SKILL.md) | Condução consultiva em 5 etapas (Entrega de Valor, Diagnóstico NEPQ, Visualização, Empilhamento de Valor e Fechamento com Reversão de Risco) |
 | `04` | [04-quebra-de-objecoes](skills/04-quebra-de-objecoes/SKILL.md) | Filtro entre dúvida real e "não" definitivo + Fórmula C.D.D. aplicada a 12 objeções reais de venda |
 | `05` | [05-follow-up-e-reconquista](skills/05-follow-up-e-reconquista/SKILL.md) | Cadência multi-canal de 3 toques sem parecer cobrança, trava de 30 dias e protocolo de reconquista (60 a 90+ dias) |
-| `06` | [06-lista-negra-e-governanca](skills/06-lista-negra-e-governanca/SKILL.md) | **Ordem direta ao agente:** Lista Negra de Jargões (30+ termos banidos), Lista Negra de Contatos (opt-out definitivo), filtro de bots e autópsia pós-perda |
+| `06` | [06-lista-negra-e-governanca](skills/06-lista-negra-e-governanca/SKILL.md) | **Ordem direta ao agente:** Lista Negra de Jargões (35+ termos banidos), Lista Negra de Contatos (opt-out definitivo), filtro de bots e autópsia pós-perda |
+| `07` | [07-psicologia-por-perfil](skills/07-psicologia-por-perfil/SKILL.md) | Comportamento avançado por perfil: usuário final (pessoas idosas/leigas e sites complicados) + decisor (engenheiro, arquiteto, designer, psicólogo, médico, advogado, gestor) |
 
 ---
 
