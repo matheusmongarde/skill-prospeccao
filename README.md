@@ -22,6 +22,7 @@ Funciona para **qualquer produto ou serviço** (SaaS, software sob medida, agên
 | `05` | [05-follow-up-e-reconquista](skills/05-follow-up-e-reconquista/SKILL.md) | Cadência multi-canal de 3 toques sem parecer cobrança, trava de 30 dias e protocolo de reconquista (60 a 90+ dias) |
 | `06` | [06-lista-negra-e-governanca](skills/06-lista-negra-e-governanca/SKILL.md) | **Ordem direta ao agente:** Lista Negra de Jargões (35+ termos banidos), Lista Negra de Contatos (opt-out definitivo), filtro de bots e autópsia pós-perda |
 | `07` | [07-psicologia-por-perfil](skills/07-psicologia-por-perfil/SKILL.md) | Comportamento avançado por perfil: usuário final (pessoas idosas/leigas e sites complicados) + decisor (engenheiro, arquiteto, designer, psicólogo, médico, advogado, gestor) |
+| `08` | [08-arquitetura-operacao-24-7](skills/08-arquitetura-operacao-24-7/SKILL.md) | Blueprint técnico completo: CRM/banco, API em 5 endpoints, workers 24/7, aquecimento de chip em grupos, limites anti-banimento e logs de conversão |
 
 ---
 
