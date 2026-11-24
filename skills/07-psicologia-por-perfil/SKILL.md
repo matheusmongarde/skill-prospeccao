@@ -41,7 +41,8 @@ Quando o negócio do lead atende público mais velho ou leigo:
   - Vá direto ao gargalo mensurável (tempo perdido, retrabalho, falha de processo, vazamento de leads).
   - Explique em etapas curtas e lógicas como funciona do dia 1 até rodar.
   - Use reversão de risco objetiva (critério claro de aceite antes da segunda parcela).
-- **Pergunta que funciona:** *"Hoje onde está o maior gargalo operacional desse fluxo: na entrada do contato ou no acompanhamento até fechar?"*
+- **Exemplo de abordagem pronta:**
+  > *"Oi [NOME], vi a operação da [EMPRESA] em [CIDADE] e notei um ponto no fluxo de orçamento de vocês: o cliente precisa preencher muita etapa manual antes de conseguir falar com um técnico. Hoje onde trava mais aí: na triagem inicial ou no retorno depois do orçamento?"*
 
 ### Perfil B: Arquiteto / Designer / Diretor Criativo
 - **Como pensa:** julga qualidade pelo **visual, proporção, tipografia e coerência estética** nos primeiros 3 segundos. Se a sua apresentação ou referência for feia, você perdeu antes de falar o preço.
@@ -50,7 +51,8 @@ Quando o negócio do lead atende público mais velho ou leigo:
   - Ancore em **posicionamento e filtro de cliente**: o problema dele raramente é falta de talento, é atrair cliente que pede orçamento por m² ou acha tudo caro porque o digital não reflete o nível do portfólio.
   - Mostre **1 única referência visual limpa e de alto nível** (nunca 5 links aleatórios).
   - Deixe explícito que a referência é só ponto de partida e a entrega final respeita 100% a identidade visual dele.
-- **Pergunta que funciona:** *"Hoje quem chega até vocês pelo digital já vem entendendo o nível do trabalho ou ainda aparece muita gente comparando só preço por m²?"*
+- **Exemplo de abordagem pronta:**
+  > *"Oi, tudo bem? Vi o portfólio de vocês no Google em [CIDADE]. O nível dos projetos é alto, mas quem pesquisa no celular cai direto no telefone sem ver uma apresentação à altura antes, o que costuma puxar curioso comparando só preço por m². Hoje chega muita gente só cotando valor e sumindo?"*
 
 ### Perfil C: Psicólogo / Terapeuta / Médico / Área da Saúde
 - **Como pensa:** prioriza **ética, acolhimento, clareza e segurança**. Tem aversão forte a marketing agressivo, gatilho de escassez falsa e tom de vendedor ansioso (além de respeitar limites dos conselhos profissionais).
@@ -59,7 +61,8 @@ Quando o negócio do lead atende público mais velho ou leigo:
   - Tom calmo, respeitoso e consultivo, sem pressa artificial.
   - Foque em **clareza para o paciente certo encontrar ajuda** e **reduzir atrito no agendamento** (especialmente se atende idosos, famílias ou pessoas em momento delicado).
   - Destaque que uma estrutura organizada evita que a secretária/profissional perca tempo com perguntas básicas repetidas.
-- **Pergunta que funciona:** *"Hoje os pacientes que chegam até você pelo Google já entendem bem como funciona o seu atendimento ou chegam com muitas dúvidas básicas antes de agendar?"*
+- **Exemplo de abordagem pronta:**
+  > *"Oi [NOME], tudo bem? Vi o seu perfil em [CIDADE]. Para quem procura atendimento nessa área (ainda mais pacientes mais velhos ou em momento sensível), um caminho confuso no celular faz a pessoa desistir antes mesmo de mandar mensagem. Hoje os pacientes já chegam entendendo como funciona o seu atendimento ou chegam com muitas dúvidas básicas antes de agendar?"*
 
 ### Perfil D: Advogado / Consultor / Serviços Jurídicos e Financeiros
 - **Como pensa:** avesso a risco, atento a **credibilidade, sobriedade, confidencialidade e regras contratuais**. Desconfia de promessa fácil.
@@ -67,7 +70,8 @@ Quando o negócio do lead atende público mais velho ou leigo:
 - **Como abordar e conduzir:**
   - Foque em **autoridade** e **triagem de curiosos** (quem só quer "tirar uma dúvida de graça" no WhatsApp).
   - Deixe as regras do jogo claras cedo quando o assunto for contratação (ex: 50% início / 50% na entrega aprovada no ar).
-- **Pergunta que funciona:** *"Hoje no WhatsApp do escritório chega muita gente só tentando tirar dúvida gratuita antes mesmo de qualificar o caso?"*
+- **Exemplo de abordagem pronta:**
+  > *"Bom dia, [NOME]. Vi o escritório de vocês em [CIDADE] e notei que quem busca pelo Google acaba caindo direto no WhatsApp sem passar por nenhuma apresentação ou filtro prévio. Hoje chega muita gente só tentando tirar dúvida gratuita antes mesmo de qualificar o caso?"*
 
 ### Perfil E: Dono de Empresa / Comércio / Gestor Prático
 - **Como pensa:** pouco tempo livre, foco em **resultado financeiro direto e zero trabalho extra** para ele ou para a equipe.
@@ -75,7 +79,8 @@ Quando o negócio do lead atende público mais velho ou leigo:
 - **Como abordar e conduzir:**
   - Fale em linguagem de caixa e tempo: quantos clientes novos pagam o projeto, quantas horas da equipe voltam por semana.
   - Deixe claro o formato **"chave na mão"** (você monta, valida e entrega pronto para rodar).
-- **Pergunta que funciona:** *"Se isso rodar pronto sem tomar tempo da sua equipe hoje, qual é o primeiro resultado que você gostaria de ver nos próximos 30 dias?"*
+- **Exemplo de abordagem pronta:**
+  > *"Oi [NOME], tudo certo? Vi a [EMPRESA] em [CIDADE]. Percebi um detalhe simples na entrada de contatos de vocês que costuma fazer a equipe perder tempo respondendo curioso todo dia. Se desse para filtrar isso antes de chegar no seu WhatsApp, sem tomar tempo seu para configurar, faria sentido eu te mostrar em 2 linhas?"*
 
 ---
 

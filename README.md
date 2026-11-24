@@ -37,6 +37,21 @@ Funciona para **qualquer produto ou serviço** (SaaS, software sob medida, agên
 
 ---
 
+## A Skill é Apenas um Norte (Como Evoluir na Prática)
+
+Nenhuma skill pronta substitui o campo de batalha. **Este repositório é um norte operacional, não uma camisa de força.**
+
+Cada mercado, ticket e região responde de um jeito. O que separa quem fecha venda de quem só dispara mensagem é o **ciclo contínuo de melhoria**:
+
+1. **Rode com o norte inicial:** comece seguindo as 7 skills para não errar o básico (zero venda na 1ª mensagem, zero jargão, respeito à lista negra).
+2. **Meça onde a conversa trava:** a cada 10 a 20 abordagens, olhe o histórico real e identifique o gargalo (ninguém respondeu à abertura? travaram depois do preço? sumiram após a prévia?).
+3. **Faça a autópsia de cada perda:** anote qual frase sua gerou silêncio ou objeção e qual perfil de cliente reagiu melhor (use o checklist da skill `06` e o mapa da skill `07`).
+4. **Atualize a própria skill:** reescreva as aberturas, troque perguntas fracas por perguntas que geraram resposta e adicione novas objeções reais que aparecerem no seu nicho.
+
+Quanto mais você ajusta as skills com base nas suas conversas reais, mais afiado o seu agente fica.
+
+---
+
 ## Regras Inegociáveis de Operação
 
 1. **Proibido parecer robô:** zero jargão de marketing, zero textão na abertura, zero travessão artificial e zero bajulação.
